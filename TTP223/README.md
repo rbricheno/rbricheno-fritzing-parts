@@ -10,4 +10,6 @@ https://fritzing.org/projects/capacitive-sensor-with-ttp223b-chip
 
 (which is CC-BY-SA 3.0, made by adrirobot https://www.adrirobot.it/ ).
 
-I made the new art, so that is CC0.
+Extensively modified, improved, and generally fixed by Fritzing forums user microMerlin https://forum.fritzing.org/u/microMerlin .
+
+I made the new bredboard art, so that is CC0.
